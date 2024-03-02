@@ -1,0 +1,413 @@
+There are total 2 supported mouse buttons
+Allegro5 initialized
+Game begin
+loaded font: Assets/Minecraft.ttf with size 30
+loaded font: Assets/Minecraft.ttf with size 72
+loaded audio: Assets/Music/original_theme.ogg
+loaded audio: Assets/Music/pacman-chomp.ogg
+loaded audio: Assets/Music/pacman_death.ogg
+loaded audio: Assets/Music/pacman_super.ogg
+loaded audio: Assets/Music/pacman_eatghost.ogg
+loaded audio: Assets/Music/congradulation.ogg
+Game initialized
+Menu scene created
+Change scene from (unnamed) to Menu
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/title.png
+Game start event loop
+Settings scene created
+Change scene from Menu to Settings
+scene_menu destroy
+loaded image: Assets/back.png
+loaded image: Assets/back_touch.png
+loaded image: Assets/sound_up.png
+loaded image: Assets/sound_up_touch.png
+loaded image: Assets/sound_down.png
+loaded image: Assets/sound_down_touch.png
+loaded image: Assets/sound_up.png
+loaded image: Assets/sound_up_touch.png
+loaded image: Assets/sound_down.png
+loaded image: Assets/sound_down_touch.png
+loaded image: Assets/map_nthu_shot.png
+loaded image: Assets/map_nthu_shot_touch.png
+loaded image: Assets/map_nnn_shot.png
+loaded image: Assets/map_nnn_shot_touch.png
+Menu scene created
+Change scene from Settings to Menu
+settings destroy
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/title.png
+Key with keycode 67 down
+MKeyname scene created
+Change scene from Menu to Menu
+scene_menu destroy
+Key with keycode 215 down
+Key with keycode 23 down
+Key with keycode 23 down
+Key with keycode 23 down
+Key with keycode 23 down
+Key with keycode 23 down
+Key with keycode 67 down
+name = WWWWW
+Start scene created
+Change scene from Menu to Start
+scene_menu destroy
+Assets/map_nnn.txt
+
+loaded image: Assets/pacman_move.png
+loaded image: Assets/pacman_die.png
+creating ghost 0
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_red.png
+creating ghost 1
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_pink.png
+creating ghost 2
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_blue.png
+creating ghost 3
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_orange.png
+Key with keycode 1 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 1 down
+Key with keycode 4 down
+Key with keycode 1 down
+collide with ghost
+
+Key with keycode 4 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 1 down
+collide with ghost
+
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 23 down
+collide with ghost
+
+Score scene created
+Change scene from Start to Score
+pacman destroy
+ghost destroy
+ghost destroy
+ghost destroy
+ghost destroy
+scene_game destroy
+Key with keycode 67 down
+Menu scene created
+Change scene from Score to Menu
+scene_menu destroy
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/title.png
+Settings scene created
+Change scene from Menu to Settings
+scene_menu destroy
+loaded image: Assets/back.png
+loaded image: Assets/back_touch.png
+loaded image: Assets/sound_up.png
+loaded image: Assets/sound_up_touch.png
+loaded image: Assets/sound_down.png
+loaded image: Assets/sound_down_touch.png
+loaded image: Assets/sound_up.png
+loaded image: Assets/sound_up_touch.png
+loaded image: Assets/sound_down.png
+loaded image: Assets/sound_down_touch.png
+loaded image: Assets/map_nthu_shot.png
+loaded image: Assets/map_nthu_shot_touch.png
+loaded image: Assets/map_nnn_shot.png
+loaded image: Assets/map_nnn_shot_touch.png
+Menu scene created
+Change scene from Settings to Menu
+settings destroy
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/title.png
+Key with keycode 67 down
+MKeyname scene created
+Change scene from Menu to Menu
+scene_menu destroy
+Key with keycode 67 down
+name = WWWWW
+Start scene created
+Change scene from Menu to Start
+scene_menu destroy
+Assets/map_nthu.txt
+
+loaded image: Assets/pacman_move.png
+loaded image: Assets/pacman_die.png
+creating ghost 0
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_red.png
+creating ghost 1
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_pink.png
+creating ghost 2
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_blue.png
+creating ghost 3
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_orange.png
+Key with keycode 1 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 215 down
+Key with keycode 58 down
+Key with keycode 58 down
+Key with keycode 58 down
+Key with keycode 58 down
+Key with keycode 58 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 4 down
+catch the ghost!
+
+catch the ghost!
+
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 4 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 4 down
+Key with keycode 1 down
+catch the ghost!
+
+catch the ghost!
+
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 4 down
+Key with keycode 1 down
+Key with keycode 4 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 1 down
+Key with keycode 4 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 23 down
+catch the ghost!
+
+catch the ghost!
+
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 23 down
+Score scene created
+Change scene from Start to Score
+pacman destroy
+ghost destroy
+ghost destroy
+ghost destroy
+ghost destroy
+scene_game destroy
+Key with keycode 67 down
+Menu scene created
+Change scene from Score to Menu
+scene_menu destroy
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/title.png
